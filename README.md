@@ -100,7 +100,8 @@ chatbackend/     # Backend - Node.js + WebSocket (ws)
 
 ## 📸 Screenshots
 
-> *(Optional - Add screenshots or demo GIFs of the UI here)*
+> ![image](https://github.com/user-attachments/assets/1805f4ab-16a8-4c99-860b-ed2a3724b28f)
+
 
 ---
 
